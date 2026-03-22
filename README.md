@@ -1,4 +1,4 @@
-# StepStone Denmark (stepstone.dk) Jobs Feed
+# StepStone DK Jobs Feed
 
 Extract structured data from [stepstone.dk](https://stepstone.dk) — structured job listings from stepstone.dk — Denmark's StepStone portal for management and specialist positions.
 
