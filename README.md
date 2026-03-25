@@ -2,7 +2,7 @@
 
 Extract structured data from [stepstone.dk](https://stepstone.dk) — structured job listings from stepstone.dk — Denmark's StepStone portal for management and specialist positions.
 
-**[Run on Apify →](https://apify.com/blackfalcondata/stepstone-dk-jobs-feed)**
+**[Run on Apify →](https://apify.com/blackfalcondata/stepstone-dk-scraper)**
 
 ---
 
