@@ -2,11 +2,12 @@
 
 Extract structured data from [stepstone.dk](https://stepstone.dk) — structured job listings from stepstone.dk — Denmark's StepStone portal for management and specialist positions.
 
-**[StepStone DK Scraper on Apify →](https://apify.com/blackfalcondata/stepstone-dk-scraper)**
+**[StepStone DK Scraper - Denmark Jobs on Apify →](https://apify.com/blackfalcondata/stepstone-dk-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [stepstone.dk](https://stepstone.dk) — structured
 ---
 
 ## Use cases
+
 
 
 
@@ -84,6 +86,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
